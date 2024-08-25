@@ -1,0 +1,32 @@
+{
+    "valid": true,
+    "jsonSchema": {
+        "type": "object",
+        "properties": {}
+    },
+    "xml": false,
+    "binary": [
+        {
+            "valid": false,
+            "file": false,
+            "urlEncode": false,
+            "enable": true,
+            "required": true
+        }
+    ],
+    "format": "false",
+    "raw": "",
+    "kvs": [
+        {
+            "valid": false,
+            "file": false,
+            "type": "text",
+            "urlEncode": false,
+            "enable": true,
+            "required": true
+        }
+    ],
+    "json": true,
+    "kv": false,
+    "type": "JSON"
+}

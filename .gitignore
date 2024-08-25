@@ -1,0 +1,9 @@
+build
+macos
+windows
+temp
+__pycache__
+
+.DS_Store
+
+main.spec

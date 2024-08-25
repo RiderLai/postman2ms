@@ -1,0 +1,25 @@
+{
+    "valid": false,
+    "xml": false,
+    "binary": [
+        {
+            "valid": false,
+            "file": false,
+            "urlEncode": false,
+            "enable": true,
+            "required": true
+        }
+    ],
+    "kvs": [
+        {
+            "valid": false,
+            "file": false,
+            "urlEncode": false,
+            "enable": true,
+            "required": true
+        }
+    ],
+    "json": false,
+    "kv": false,
+    "type": "KeyValue"
+}

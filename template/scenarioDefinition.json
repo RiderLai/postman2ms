@@ -1,0 +1,44 @@
+{
+    "variableEnable": false,
+    "markStep": false,
+    "type": "scenario",
+    "showCustomNum": false,
+    "versionName": "v1.0.0",
+    "isMockEnvironment": false,
+    "enable": true,
+    "versionEnable": true,
+    "hashTree": [
+    ],
+    "id": "",
+    "mixEnable": false,
+    "customNum": "",
+    "onSampleError": true,
+    "headers": [
+        {
+            "valid": true,
+            "min": 0,
+            "file": false,
+            "max": 0,
+            "enable": true,
+            "name": "Authorization",
+            "value": "${bearer}",
+            "urlEncode": false,
+            "required": true
+        },
+        {
+            "valid": false,
+            "file": false,
+            "urlEncode": false,
+            "enable": true,
+            "required": true
+        }
+    ],
+    "variables": [],
+    "mockEnvironment": false,
+    "active": false,
+    "environmentEnable": false,
+    "referenced": "",
+    "name": "temp3",
+    "enableCookieShare": false,
+    "clazzName": "io.metersphere.api.dto.definition.request.MsScenario"
+}

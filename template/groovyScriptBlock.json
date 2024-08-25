@@ -1,0 +1,55 @@
+{
+    "resourceId": "8c8f5f12-ebdf-43f5-9c1f-2fa24df4e50f",
+    "mockEnvironment": false,
+    "scriptLanguage": "groovy",
+    "num": "",
+    "active": false,
+    "index": 1,
+    "markStep": false,
+    "label": "SCENARIO-REF-STEP",
+    "type": "JSR223Processor",
+    "isMockEnvironment": false,
+    "script": "",
+    "jsrEnable": true,
+    "enable": true,
+    "name": "Init 依赖变量设置 & 场景变量设置",
+    "hashTree": [
+        {
+            "jsr223": [],
+            "resourceId": "d057b3fe-ea42-454a-8264-d7d596b7ba38",
+            "mockEnvironment": false,
+            "document": {
+                "type": "JSON",
+                "data": {
+                    "json": [],
+                    "include": false,
+                    "xmlFollowAPI": "false",
+                    "typeVerification": false,
+                    "xml": [],
+                    "jsonFollowAPI": "false"
+                },
+                "enable": true
+            },
+            "xpath2": [],
+            "active": false,
+            "index": 1,
+            "markStep": false,
+            "jsonPath": [],
+            "type": "Assertions",
+            "isMockEnvironment": false,
+            "duration": {
+                "valid": false,
+                "type": "Duration",
+                "value": 0,
+                "enable": true
+            },
+            "regex": [],
+            "scenarioAss": false,
+            "enable": true,
+            "hashTree": [],
+            "id": "78761a95-93bf-61dd-15b3-666e2c2f20dd",
+            "clazzName": "io.metersphere.api.dto.definition.request.assertions.MsAssertions"
+        }
+    ],
+    "clazzName": "io.metersphere.api.dto.definition.request.processors.MsJSR223Processor"
+}

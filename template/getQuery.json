@@ -1,0 +1,9 @@
+{
+    "valid": true,
+    "file": false,
+    "enable": true,
+    "name": "page",
+    "value": "1",
+    "urlEncode": false,
+    "required": false
+}

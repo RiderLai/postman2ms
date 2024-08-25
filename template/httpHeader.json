@@ -1,0 +1,9 @@
+{
+    "valid": true,
+    "file": false,
+    "enable": true,
+    "name": "Accept",
+    "value": "application/json",
+    "urlEncode": false,
+    "required": false
+}
